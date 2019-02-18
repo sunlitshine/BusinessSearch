@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="item_height">120dp</dimen>
+    <dimen name="subitem_height">40dp</dimen>
+
+    <dimen name="item_inner_left_right_margin">14dp</dimen>
+
+    <dimen name="list_margin">16dp</dimen>
+    <dimen name="list_item_margin">10dp</dimen>
+    <dimen name="list_item_card_view_elevation">6dp</dimen>
+
+
+
+   
+</resources>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<font-family
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <!-- For Newer Android versions -->
+    <font android:font="@font/open_sans__light"
+        android:fontStyle="normal"
+        android:fontWeight="300" />
+    <font android:font="@font/open_sans__light_italic"
+        android:fontStyle="italic"
+        android:fontWeight="300" />
+    <font android:font="@font/open_sans__regular"
+        android:fontStyle="normal"
+        android:fontWeight="400" />
+    <font android:font="@font/open_sans__italic"
+        android:fontStyle="italic"
+        android:fontWeight="400" />
+    <font android:font="@font/open_sans__semi_bold"
+        android:fontStyle="normal"
+        android:fontWeight="600" />
+    <font android:font="@font/open_sans__semi_bold_italic"
+        android:fontStyle="italic"
+        android:fontWeight="600" />
+    <font android:font="@font/open_sans__bold"
+        android:fontStyle="normal"
+        android:fontWeight="700" />
+    <font android:font="@font/open_sans__bold_italic"
+        android:fontStyle="italic"
+        android:fontWeight="700" />
+    <font android:font="@font/open_sans__extra_bold"
+        android:fontStyle="normal"
+        android:fontWeight="800" />
+    <font android:font="@font/open_sans__extra_bold_italic"
+        android:fontStyle="italic"
+        android:fontWeight="800" />
+
+    <!-- For backward compatibility to API level 19 (Lollipop) -->
+    <font app:font="@font/open_sans__light"
+        app:fontStyle="normal"
+        app:fontWeight="300" />
+    <font app:font="@font/open_sans__light_italic"
+        app:fontStyle="italic"
+        app:fontWeight="300" />
+    <font app:font="@font/open_sans__regular"
+        app:fontStyle="normal"
+        app:fontWeight="400" />
+    <font app:font="@font/open_sans__italic"
+        app:fontStyle="italic"
+        app:fontWeight="400" />
+    <font app:font="@font/open_sans__semi_bold"
+        app:fontStyle="normal"
+        app:fontWeight="600" />
+    <font app:font="@font/open_sans__semi_bold_italic"
+        app:fontStyle="italic"
+        app:fontWeight="600" />
+    <font app:font="@font/open_sans__bold"
+        app:fontStyle="normal"
+        app:fontWeight="700" />
+    <font app:font="@font/open_sans__bold_italic"
+        app:fontStyle="italic"
+        app:fontWeight="700" />
+    <font app:font="@font/open_sans__extra_bold"
+        app:fontStyle="normal"
+        app:fontWeight="800" />
+    <font app:font="@font/open_sans__extra_bold_italic"
+        app:fontStyle="italic"
+        app:fontWeight="800" />
+
+</font-family>
